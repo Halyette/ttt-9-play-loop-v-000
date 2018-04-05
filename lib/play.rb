@@ -38,6 +38,7 @@ end
 # Define your play method below
 
 def play(board)
+  
   until #turn == 9
 puts "Your turn"
   #turn += 1
